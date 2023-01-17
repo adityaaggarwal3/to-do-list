@@ -77,3 +77,6 @@ li {
   position: relative;
   padding: 0.5rem;
 }
+.completed {
+  text-decoration: line-through;
+}
